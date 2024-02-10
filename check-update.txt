@@ -1,2 +1,1 @@
-{'ver1':'2.0', 'ver2':'0', 'ver2':' \n•https://raw.githubusercontent.com/MujahidMods/MujahidMods/main/check-update.txt
-', 'exp925':'1', 'exp935':'107777', 'exp929':'150', 'exp930':'107'}
+https://raw.githubusercontent.com/MujahidMods/MujahidMods/main/check-update.txt
